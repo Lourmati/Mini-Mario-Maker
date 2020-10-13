@@ -1,0 +1,37 @@
+C:\Users\mlou\Downloads\C#\Labo5\Labo5\bin\Debug\Labo5.exe.config
+C:\Users\mlou\Downloads\C#\Labo5\Labo5\bin\Debug\Labo5.exe
+C:\Users\mlou\Downloads\C#\Labo5\Labo5\bin\Debug\Labo5.pdb
+C:\Users\mlou\Downloads\C#\Labo5\Labo5\obj\Debug\Labo5.csprojAssemblyReference.cache
+C:\Users\mlou\Downloads\C#\Labo5\Labo5\obj\Debug\Labo5.Form1.resources
+C:\Users\mlou\Downloads\C#\Labo5\Labo5\obj\Debug\Labo5.Properties.Resources.resources
+C:\Users\mlou\Downloads\C#\Labo5\Labo5\obj\Debug\Labo5.csproj.GenerateResource.cache
+C:\Users\mlou\Downloads\C#\Labo5\Labo5\obj\Debug\Labo5.csproj.CoreCompileInputs.cache
+C:\Users\mlou\Downloads\C#\Labo5\Labo5\obj\Debug\Labo5.exe
+C:\Users\mlou\Downloads\C#\Labo5\Labo5\obj\Debug\Labo5.pdb
+C:\Users\1739188\Downloads\Labo5\Labo5\Labo5\bin\Debug\Labo5.exe.config
+C:\Users\1739188\Downloads\Labo5\Labo5\Labo5\bin\Debug\Labo5.exe
+C:\Users\1739188\Downloads\Labo5\Labo5\Labo5\bin\Debug\Labo5.pdb
+C:\Users\1739188\Downloads\Labo5\Labo5\Labo5\obj\Debug\Labo5.csprojResolveAssemblyReference.cache
+C:\Users\1739188\Downloads\Labo5\Labo5\Labo5\obj\Debug\Labo5.Form1.resources
+C:\Users\1739188\Downloads\Labo5\Labo5\Labo5\obj\Debug\Labo5.Properties.Resources.resources
+C:\Users\1739188\Downloads\Labo5\Labo5\Labo5\obj\Debug\Labo5.csproj.GenerateResource.Cache
+C:\Users\1739188\Downloads\Labo5\Labo5\Labo5\obj\Debug\Labo5.exe
+C:\Users\1739188\Downloads\Labo5\Labo5\Labo5\obj\Debug\Labo5.pdb
+C:\Users\1739188\Downloads\Labo5\Labo5\bin\Debug\Labo5.exe.config
+C:\Users\1739188\Downloads\Labo5\Labo5\bin\Debug\Labo5.exe
+C:\Users\1739188\Downloads\Labo5\Labo5\bin\Debug\Labo5.pdb
+C:\Users\1739188\Downloads\Labo5\Labo5\obj\Debug\Labo5.csprojResolveAssemblyReference.cache
+C:\Users\1739188\Downloads\Labo5\Labo5\obj\Debug\Labo5.Form1.resources
+C:\Users\1739188\Downloads\Labo5\Labo5\obj\Debug\Labo5.Properties.Resources.resources
+C:\Users\1739188\Downloads\Labo5\Labo5\obj\Debug\Labo5.csproj.GenerateResource.Cache
+C:\Users\1739188\Downloads\Labo5\Labo5\obj\Debug\Labo5.exe
+C:\Users\1739188\Downloads\Labo5\Labo5\obj\Debug\Labo5.pdb
+C:\Users\Adam\Downloads\Projects\C# Basic Mario Maker\Labo5\Labo5\bin\Debug\Labo5.exe.config
+C:\Users\Adam\Downloads\Projects\C# Basic Mario Maker\Labo5\Labo5\bin\Debug\Labo5.exe
+C:\Users\Adam\Downloads\Projects\C# Basic Mario Maker\Labo5\Labo5\bin\Debug\Labo5.pdb
+C:\Users\Adam\Downloads\Projects\C# Basic Mario Maker\Labo5\Labo5\obj\Debug\Labo5.csprojAssemblyReference.cache
+C:\Users\Adam\Downloads\Projects\C# Basic Mario Maker\Labo5\Labo5\obj\Debug\Labo5.Form1.resources
+C:\Users\Adam\Downloads\Projects\C# Basic Mario Maker\Labo5\Labo5\obj\Debug\Labo5.Properties.Resources.resources
+C:\Users\Adam\Downloads\Projects\C# Basic Mario Maker\Labo5\Labo5\obj\Debug\Labo5.csproj.GenerateResource.cache
+C:\Users\Adam\Downloads\Projects\C# Basic Mario Maker\Labo5\Labo5\obj\Debug\Labo5.exe
+C:\Users\Adam\Downloads\Projects\C# Basic Mario Maker\Labo5\Labo5\obj\Debug\Labo5.pdb
